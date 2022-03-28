@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jarmo van der Heul @qwertmedia
 - 👨🏻‍💻 Front-End developer
-- Technologies: HTML, (S)CSS, Vanilla JS, ReactJS, Shopify
+- Technologies: HTML, (S)CSS, JavaScript, ReactJS, Shopify-Liquid
 - 🤝 I’m looking to collaborate on www.qwrt.nl
 - 📫 How to reach me info@qwrt.nl
